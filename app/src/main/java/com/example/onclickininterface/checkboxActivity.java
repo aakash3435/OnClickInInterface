@@ -66,5 +66,6 @@ class MyAdapter extends RecyclerView.Adapter<MyAdapter.exViewHolder>{
             super(itemView);
             checkBox = itemView.findViewById(R.id.checkbox);
         }
+        //ksdjfisdifjs
     }
 }
